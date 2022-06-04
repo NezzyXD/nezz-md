@@ -1,0 +1,16 @@
+exports.sewa = () => {
+	return`
+*SEWA BOT 💫*
+
+📆 1 Minggu : Rp. 6.000
+📆 1 Bulan : Rp. 8.000
+📆 Permanen : Rp. 10.000
+
+🤖 JADI ONWER BOT PERMANENT : Rp. 15.000
+
+*🏦 PAYMENT :*
+- Gopay
+- Dana
+- Paypal
+`
+}
